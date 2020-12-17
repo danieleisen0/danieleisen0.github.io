@@ -15,7 +15,7 @@ Our project is designed in the Model, View, Controller framework where each inte
 [![DEMO](https://i9.ytimg.com/vi/yMfrwR5517A/mq2.jpg?sqp=COyx6_4F&rs=AOn4CLCQkxefx_7FPa7_F3pGaTqZvd_L7Q)](https://youtu.be/yMfrwR5517A "Connect 4")
 
 ## How To Install
-Fork and clone this [repository](https://github.com/danieleisen0/Project-3)\
+Fork and clone this [repository](https://github.com/danieleisen0/Project-3).\
 When you run **connect_4_final.py** in the terminal, you're welcomed to the game and prompted to enter a 1 for single player or a two for multiplayer. The game then displays the empty Connect 4 board and prompts for user one’s move. If you selected the 2 player mode, the game will then mark the board with your move and prompt player 2 for their move, this cycle will continue until there is a winner, in which case it will congratulate the winner and close the game. If you selected single player, immediately after you make your move, the game will display the board with your move in it, then will display another board with the AI’s move in it. You'll be prompted for your next move until either the user or the AI has four in a row, in which case the while loop is closed and the game is ended.
 
 ## Key Takeaways
